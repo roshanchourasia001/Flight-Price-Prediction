@@ -10,7 +10,13 @@
 
 A Machine Learning web application built with **Flask** that predicts flight ticket prices based on various travel parameters.
 
-🌐 **Live Demo:** [Your Hosted Website URL Here]
+🌐 **Live Demo:** 
+
+<p align="center">
+  <a href="http://3.84.125.226:5000">
+    <img src="static/css/img/click.webp" alt="Websire Link" width="300">
+  </a>
+</p>
 
 ---
 
@@ -26,6 +32,8 @@ A Machine Learning web application built with **Flask** that predicts flight tic
 | 📓 Documented Notebook | Jupyter Notebook with full EDA, visualizations, and model evaluation |
 | 🚀 Production-Ready | Includes `Procfile` and `requirements.txt` for seamless cloud deployment |
 | 🎯 User-Friendly UI | Clean web interface — no ML knowledge needed to use the app |
+
+![AWS](static/css/img/aws.jpg)
 
 ---
 
@@ -165,7 +173,10 @@ If this project helped you or you found it interesting, consider giving it a **s
 
 > _"A star is a small click for you, but a big motivation for me."_
 
-I'm constantly building more projects like this — from Machine Learning to Full-Stack Web Apps.  
+I'm constantly building more projects like this — from Machine Learning to Full-Stack Web Apps. 
+
+![roshan](static/css/img/coding.gif)
+
 **Follow me on GitHub** to stay updated and never miss what's coming next! 🚀
 
 [![GitHub Follow](https://img.shields.io/github/followers/roshanchourasia001?label=Follow%20%40roshanchourasia001&style=social)](https://github.com/roshanchourasia001)
